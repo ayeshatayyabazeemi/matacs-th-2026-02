@@ -1,8 +1,8 @@
 # MATACS-TH-2026-02: AI Proposal Triage Design
 
-**Name:** [YOUR FULL NAME]
+**Name:** [Ayesha Tayyab Azeemi]
 **Reference:** MATACS-TH-2026-02
-**Time actually spent:** [YOUR ACTUAL TIME]
+**Time actually spent:** [1 hr]
 
 ## What this is
 
